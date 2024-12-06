@@ -1,0 +1,14 @@
+# Install streamlit for UI
+streamlit
+
+# PyAudio for audio input/output handling
+pyaudio
+
+# AssemblyAI for transcription
+assemblyai
+
+# LangChain for managing language models and prompts
+langchain-groq
+
+# Converting text to speech
+gtts

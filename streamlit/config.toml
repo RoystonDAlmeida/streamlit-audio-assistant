@@ -1,0 +1,3 @@
+[server]
+runOnSave = true
+fileWatcherType = "auto"  # Detect changes in files and reload
